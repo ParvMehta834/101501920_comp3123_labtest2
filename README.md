@@ -6,5 +6,6 @@ The app enables users to search for any city to view current weather information
 The data is fetched in real time using a public weather API.
 
 ---
-
+# Deployed App Link:
+https://101501920-comp3123-labtest2.vercel.app/
 
